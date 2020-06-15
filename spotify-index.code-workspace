@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../crt"
+		},
+		{
+			"path": "../gatsby-site-using-local-plugins"
+		},
+		{
+			"path": "../using-local-plugins"
+		},
+		{
+			"path": "../gatsby-source-spotify"
+		}
+	],
+	"settings": {}
+}
