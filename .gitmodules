@@ -1,0 +1,3 @@
+[submodule "/plugins/gatsby-source-spotify"]
+path = "/plugins/gatsby-source-spotify"
+url = https://github.com/c-r-talbot/gatsby-source-spotify.git
