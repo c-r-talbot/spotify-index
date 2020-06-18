@@ -16,6 +16,7 @@
   "dependencies": {
     "gatsby": "^2.22.15",
     "gatsby-plugin-typescript": "^2.4.6",
+    "gatsby-source-spotify": "file:gatsby-source-spotify",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
